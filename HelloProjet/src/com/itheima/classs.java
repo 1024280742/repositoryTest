@@ -10,5 +10,10 @@ public class classs {
 
     public void find(){
         System.out.println("===");
+        int i=10;
+        for (int i1 = 0; i1 < i; i1++) {
+            System.out.println(i);
+
+        }
     }
 }
