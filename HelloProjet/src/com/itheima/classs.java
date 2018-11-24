@@ -7,4 +7,8 @@ public class classs {
         System.out.println("hello");
         System.out.println("hello");
     }
+
+    public void find(){
+        System.out.println("===");
+    }
 }
